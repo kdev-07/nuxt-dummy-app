@@ -7,6 +7,9 @@ export default {
   server: {
     host: "0.0.0.0",
   },
+  sitemap: {
+    hostname: "https://example.com/",
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: "test-app",
